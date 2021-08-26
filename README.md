@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **gouravdidwania@yahoo.com**
+- 📫 How to reach me [Email Me](**gouravdidwania@yahoo.com**)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TO3Gs9pojtenwYdIgNELX2vAkMBGRpkC/view?usp=sharing](https://drive.google.com/file/d/1TO3Gs9pojtenwYdIgNELX2vAkMBGRpkC/view?usp=sharing)
 
