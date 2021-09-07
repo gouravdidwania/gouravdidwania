@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **setting up mu GitHub Profile**
+- 🤝 I’m looking for help with **setting up my GitHub Profile**
 
 - 💬 Ask me about **anything**
 
