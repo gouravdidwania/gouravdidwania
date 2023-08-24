@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav Didwania</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Engineer from India.</h3>
+<h3 align="center">A Passionate Data Scientist and Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **making Machines learn.**
 
