@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **[Email Me](mailto:gouravdidwania@yahoo.com)**
 
-- 📄 Know about my **[Experiences](https://drive.google.com/file/d/1TO3Gs9pojtenwYdIgNELX2vAkMBGRpkC/view?usp=sharing)**
+- 📄 Know about my **[Experiences](https://www.linkedin.com/in/gourav-didwania/)**
 
 - ⚡ Fun fact: **I'm also a Memer!**
 
@@ -34,7 +34,7 @@
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://airflow.apache.org/images/logos/icon-60.png" alt="Airflow" width="40" height="40"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" width="40" height="40"/></a>
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="40" height="40"/></a>
-  <a href="https://www.ray.io/" target="_blank"><img src="https://docs.ray.io/en/latest/_static/ray_logo.png" alt="Ray" width="40" height="40"/></a>
+  <a href="https://www.ray.io/" target="_blank"><img src="https://tooldirectory.ai/_next/image?url=https%3A%2F%2Fstriking-kindness-e0d93214bb.media.strapiapp.com%2FRay_Logo_1fa8ec5a43.png&w=3840&q=72" alt="Ray" width="40" height="40"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
