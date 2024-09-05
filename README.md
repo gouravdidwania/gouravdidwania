@@ -30,8 +30,8 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></a>
-  <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/images/logo.svg" alt="MLflow" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://airflow.apache.org/images/logos/icon-60.png" alt="Airflow" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/img/blog/release-candidates.png" alt="MLflow" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" alt="Airflow" width="40" height="40"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" alt="Spark" width="40" height="40"/></a>
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="40" height="40"/></a>
   <a href="https://www.ray.io/" target="_blank"><img src="https://tooldirectory.ai/_next/image?url=https%3A%2F%2Fstriking-kindness-e0d93214bb.media.strapiapp.com%2FRay_Logo_1fa8ec5a43.png&w=3840&q=72" alt="Ray" width="40" height="40"/></a>
