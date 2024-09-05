@@ -33,7 +33,7 @@
   <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/img/blog/release-candidates.png" alt="MLflow" width="71" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" alt="Airflow" width="120" height="40"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" alt="Spark" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="40" height="40"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="40" height="144"/></a>
   <a href="https://www.ray.io/" target="_blank"><img src="https://tooldirectory.ai/_next/image?url=https%3A%2F%2Fstriking-kindness-e0d93214bb.media.strapiapp.com%2FRay_Logo_1fa8ec5a43.png&w=3840&q=72" alt="Ray" width="40" height="40"/></a>
   <a href="https://openai.com/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="OpenAI" width="40" height="40"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
