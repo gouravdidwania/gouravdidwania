@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/gourav-didwania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-didwania" height="30" width="40" /></a>
 <a href="https://fb.com/gourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gourav" height="30" width="40" /></a>
 <a href="https://instagram.com/gouravdidwania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gouravdidwania" height="30" width="40" /></a>
-<a href="https://medium.com/@gourav.didwania" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" height="30" width="40" /></a>
+<a href="https://medium.com/@gourav.didwania" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
