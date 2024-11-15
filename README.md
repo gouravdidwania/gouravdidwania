@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **making Machines learn.**
 
-- 🌱 I’ve recently started learning **Deep Learning**.
-
 - 👯 I’m looking to collaborate on **machine learning projects.**
-
-- 🤝 I’m looking for help with **enhancing my GitHub Profile.**
 
 - 💬 Ask me about **Data Science, Machine Learning, and more!**
 
